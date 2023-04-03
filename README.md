@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio prueba modulo 2 de Henry
+este proyecot es una prueba de clonacion
